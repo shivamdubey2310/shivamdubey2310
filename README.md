@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Shivam Dubey</h1>
-<h3 align="center">A passionate Data engineering student from India.</h3>
+# Hi there, I'm Shivam Dubey 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamdubey2310&label=Profile%20views&color=0e75b6&style=flat" alt="shivamdubey2310" /> </p>
+### ☁️ Cloud Lead | Data Engineer | M.Tech AI & Data Science Student
 
-- 🌱 I’m currently learning **Big Data Tools, Azure cloud, pySpark**
+I am a **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** with a passion for building scalable, production-grade data platforms. My expertise lies in architecting **Medallion Lakehouse structures**, near real-time **CDC pipelines**, and **RAG-based AI systems**.
 
-- 📫 How to reach me **shivamdubey2310711@gmail.com**
+Currently, I'm a Data Engineer Intern at **Bizfy Solutions**, where I focus on integrating document parsing and vector databases for AI-driven pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam-dubey-2840b7274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-dubey-2840b7274" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivamdubey2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamdubey2005" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivamdubey20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivamdubey20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivamdubey23101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamdubey23101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamdubey2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamdubey2005/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamdubey2310&show_icons=true&locale=en&layout=compact" alt="shivamdubey2310" /></p>
+* **Languages:** Python (Pandas, PySpark), SQL (PostgreSQL, MySQL, T-SQL), Bash
+* **Data Engineering:** Microsoft Fabric, Azure Data Factory, Databricks, Apache Airflow, Delta Lake
+* **Big Data:** PySpark, Spark SQL, Structured Streaming
+* **Cloud/DevOps:** Azure, Git/GitHub, Linux (KDE Plasma), CI/CD fundamentals
+* **AI/ML:** RAG Pipelines, Vector Databases, Statistical Morphology
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏗️ [Near Real-Time CDC Lakehouse Pipeline](https://github.com/shivamdubey2310/your-repo-link)
+* **Stack:** Azure SQL, ADF, Databricks, Delta Lake, Synapse Analytics.
+* **Impact:** Reduced data latency from **24 hours to <10 minutes** for 1M+ records using SQL Change Tracking and metadata-driven ADF triggers.
+* **Key Feature:** Implemented idempotent MERGE logic in PySpark for a robust Medallion architecture.
+
+#### ☁️ [End-to-End Medallion ETL (AQI Forecasting)](https://github.com/shivamdubey2310/your-repo-link)
+* **Stack:** Microsoft Fabric, PySpark, AirNow API.
+* **Impact:** Built a config-driven pipeline that improved query performance by **40%** through optimized Gold-layer Delta tables.
+
+#### 📡 [Real-Time Weather Monitoring System](https://github.com/shivamdubey2310/your-repo-link)
+* **Stack:** Fabric Eventstreams, KQL (Eventhouse), Fabric Activator.
+* **Impact:** Achieved **sub-second latency** for live telemetry and automated 100% of threshold monitoring via real-time alerting.
+
+---
+
+### 🏆 Certifications & Leadership
+
+* **DP-700:** Microsoft Certified: Fabric Data Engineer Associate
+* **Airflow:** Astronomer Certification for Apache Airflow 3 Fundamentals
+* **GDG on Campus (SDSF):** Former **Cloud Lead**. Led Cloud Study Jams resulting in 80+ certifications and elevated our chapter to **Tier 1 status** nationally.
+* **Databricks AI Challenge:** Secured 2nd Place in the 14-Day AI Challenge kickoff.
+
+---
+
+### 📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdubey2310&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdubey2310&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+
+* **LinkedIn:** [linkedin.com/in/shivam-dubey20](https://linkedin.com/in/shivam-dubey20)
+* **Email:** shivamdubey2310711@gmail.com
+* **Portfolio:** [Link to your site if available]
+
+*"Turning raw data into gold, one partition at a time."*
